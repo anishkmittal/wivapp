@@ -1,0 +1,8 @@
+{
+  "name": "wivapp",
+  "description": "",
+  "repository": "https://github.com/anishkmittal/wivapp",
+  "logo": "",
+  "keywords": ["node", "express", "angular", "MEAN", "mongodb", "REST", "API"],
+  
+}
